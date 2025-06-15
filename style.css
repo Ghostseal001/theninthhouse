@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Georgia', serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    width: 250px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.motto {
+    font-size: 1.5em;
+    font-style: italic;
+}
